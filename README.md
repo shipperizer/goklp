@@ -1,4 +1,5 @@
 ![Supported](https://img.shields.io/badge/development_status-supported-brightgreen.svg) ![License BSDv2](https://img.shields.io/badge/license-BSDv2-brightgreen.svg)
+[![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/shipperizer/goklp/badge)](https://scorecard.dev/viewer/?uri=github.com/shipperizer/goklp)
 
 ## goklp: Golang OpenSSH Keys Ldap Provider for AuthorizedKeysCommand
 
